@@ -7,7 +7,7 @@ HRS Reconstruction System
 
 В данной работе применён новый подход к маркировке вокселов: вместо сложных расчётов по проектированию вокселов на плоскость изображения, производится графическое построение проекции куба средствами видеокарты, с последующим сравнением силуэта объекта и проекции воксела, полученной в результате рендеринга. 
 
-[Презентация](https://github.com/Hramchenko/hrssystem/blob/master/Docs/hrssystem.pdf)
+Более подробная информация приведена в [презентации...](https://github.com/Hramchenko/hrssystem/blob/master/Docs/hrssystem.pdf)
 
 
 ![Снимок экрана](https://github.com/Hramchenko/hrssystem/blob/master/Docs/img8.jpeg)
