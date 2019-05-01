@@ -9,6 +9,8 @@ HRS Reconstruction System
 
 Более подробная информация приведена в [презентации...](https://github.com/Hramchenko/hrssystem/blob/master/Docs/hrssystem.pdf)
 
+![Снимок экрана](https://github.com/Hramchenko/hrssystem/blob/master/Docs/stand.png)
+
 ![Снимок экрана](https://github.com/Hramchenko/hrssystem/blob/master/Docs/img8.jpeg)
 
 ![Снимок экрана](https://github.com/Hramchenko/hrssystem/blob/master/Docs/img2.jpeg)
